@@ -1,0 +1,21 @@
+{
+    "name": "grazlight",
+    "displayName": "GrazLight",
+    "description": "My Light Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "LukasLeight",
+                "uiTheme": "vs",
+                "path": "./themes/LukasLeight-color-theme.json"
+            }
+        ]
+    }
+}
