@@ -13,7 +13,7 @@
         "themes": [
             {
                 "label": "LukasLeight",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/LukasLeight-color-theme.json"
             }
         ]
